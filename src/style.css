@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+h1 {
+  padding: 200px 0;
+  text-align: center;
+  cursor: none;
+  color: goldenrod
+}
